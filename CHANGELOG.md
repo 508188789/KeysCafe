@@ -35,3 +35,11 @@
 - 所有反射查找基于方法签名而非名字，规避 Kotlin `@Metadata` 造成的名实不符
 - 配置通过 `Settings.Global` 跨进程传递（其余四种方案被 Android 11+ 包可见性与
   SELinux per-app 隔离挡住，详见 docs/ARCHITECTURE.md）
+
+## [Unreleased]
+
+### 变更
+
+- 许可证由 MIT 改为 **Unlicense**（公共领域）。去掉署名与保留版权声明的要求，
+  任何人可为任何目的使用、修改、闭源分发、商用，无需征得同意。
+  选 Unlicense 而非 CC0，因为 CC0 面向内容作品，专利与商标条款在软件场景下表述不清。

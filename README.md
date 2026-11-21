@@ -9,7 +9,7 @@
   <img alt="LSPosed API" src="https://img.shields.io/badge/LSPosed%20API-102-00E5FF">
   <img alt="Android" src="https://img.shields.io/badge/Android-10%2B-3DDC84">
   <img alt="Version" src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95-4.0.1-07C160">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
+  <img alt="License" src="https://img.shields.io/badge/License-Unlicense-blue">
 </p>
 
 > 只在微信输入法 **4.0.1**（`com.tencent.wetype`）上验证过。其它版本理论上也能挂上，
@@ -309,4 +309,17 @@ keyscafe/
 
 ## 许可证
 
-[MIT](LICENSE)
+[**Unlicense**](LICENSE) —— 本项目已进入**公共领域**（Public Domain）。
+
+这是软件领域最宽泛的授权形式：作者放弃全部著作权利益，不保留任何条件。你可以：
+
+- **商用**，包括打包进自己售卖的产品；
+- **闭源**衍生，修改后不必公开源码；
+- **不署名**，去掉原作者信息、改名、伪装成自己的项目；
+- **不做任何声明**，不必保留本 LICENSE 文件，也不必告知作者。
+
+没有「保留版权声明」的要求，没有「相同方式共享」的传染性，也不需要征得同意。
+
+唯一保留的是**无担保**条款：软件按原样提供，不附带任何明示或暗示的保证；使用后出现任何问题（包括设备异常、应用崩溃、账号风险），作者不承担责任。
+
+> 之所以用 Unlicense 而不是 CC0：CC0 是为内容作品（文本、图像、数据）设计的，其中关于专利与商标的条款在软件场景下表述不清，自由软件基金会（FSF）也不建议将其用于代码。Unlicense 是专为软件写的公共领域奉献文本，语义更贴合，GitHub 也能正确识别。
