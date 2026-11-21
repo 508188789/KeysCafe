@@ -1,0 +1,25 @@
+# 构建产物
+build/
+*.apk
+*.apk.idsig
+*.idsig
+
+# 本地密钥库（签名用，绝对不要提交）
+*.jks
+*.keystore
+
+# 第三方依赖（体积大且可再下载，见 libs/README.md）
+libs/api102/classes.jar
+libs/api102/*.aar
+
+# IDE / 编辑器
+.idea/
+*.iml
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logcat*.txt

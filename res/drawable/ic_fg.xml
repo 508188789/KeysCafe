@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 键盘底座 -->
+    <path
+        android:fillColor="#12161F"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.4"
+        android:pathData="M30,36 h48 a9,9 0 0 1 9,9 v22 a9,9 0 0 1 -9,9 h-48 a9,9 0 0 1 -9,-9 v-22 a9,9 0 0 1 9,-9 z" />
+
+    <!-- 两排键帽 -->
+    <path
+        android:fillColor="#2B3648"
+        android:pathData="M28,44 h9 v7 h-9 z M41,44 h9 v7 h-9 z M54,44 h9 v7 h-9 z M67,44 h9 v7 h-9 z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M28,55 h9 v7 h-9 z M54,55 h9 v7 h-9 z" />
+    <path
+        android:fillColor="#8C6CFF"
+        android:pathData="M41,55 h9 v7 h-9 z M67,55 h9 v7 h-9 z" />
+
+    <!-- 空格 -->
+    <path
+        android:fillColor="#3A4657"
+        android:pathData="M38,66 h32 v6 h-32 z" />
+
+    <!-- 右上角星芒 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M80,18 C81.2,26.5 83.5,28.8 92,30 C83.5,31.2 81.2,33.5 80,42 C78.8,33.5 76.5,31.2 68,30 C76.5,28.8 78.8,26.5 80,18 Z" />
+</vector>
